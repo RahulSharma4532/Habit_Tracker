@@ -30,3 +30,5 @@ cd Habit_Tracker
 
 Install dependencies:  npm install
 Run locally: npm run dev
+
+https://habittracker-ten-rho.vercel.app/
